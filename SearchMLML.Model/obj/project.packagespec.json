@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
+    "projectUniqueName": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
     "projectName": "SearchMLML.Model",
-    "projectPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
-    "outputPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\obj\\",
+    "projectPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
+    "outputPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14,8 +14,7 @@
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-      "https://api.nuget.org/v3/index.json": {},
-      "https://nexus.indraproject.ir/repository/indra-dev-nuget": {}
+      "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
       "netstandard2.0": {

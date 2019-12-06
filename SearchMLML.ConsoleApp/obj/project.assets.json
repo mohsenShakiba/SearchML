@@ -1719,11 +1719,12 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1891,11 +1892,12 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3959,23 +3961,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m.shakiba\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.ConsoleApp\\SearchMLML.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\SearchML\\SearchMLML.ConsoleApp\\SearchMLML.ConsoleApp.csproj",
       "projectName": "SearchMLML.ConsoleApp",
-      "projectPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.ConsoleApp\\SearchMLML.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\m.shakiba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.ConsoleApp\\obj\\",
+      "projectPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.ConsoleApp\\SearchMLML.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\m.shakiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3983,14 +3985,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nexus.indraproject.ir/repository/indra-dev-nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {
-              "projectPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj"
+            "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {
+              "projectPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj"
             }
           }
         }

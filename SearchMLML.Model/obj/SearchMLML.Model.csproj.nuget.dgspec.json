@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {}
+    "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {
+    "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
+        "projectUniqueName": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
         "projectName": "SearchMLML.Model",
-        "projectPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
-        "packagesPath": "C:\\Users\\m.shakiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchMLML.Model\\obj\\",
+        "projectPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\SearchMLML.Model.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\C#\\SearchML\\SearchMLML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.shakiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus.indraproject.ir/repository/indra-dev-nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

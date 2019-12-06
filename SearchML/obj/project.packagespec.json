@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchML\\SearchML.csproj",
+    "projectUniqueName": "D:\\Projects\\C#\\SearchML\\SearchML\\SearchML.csproj",
     "projectName": "SearchML",
-    "projectPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchML\\SearchML.csproj",
-    "outputPath": "C:\\Users\\m.shakiba\\Desktop\\Projects\\SearchML\\SearchML\\obj\\",
+    "projectPath": "D:\\Projects\\C#\\SearchML\\SearchML\\SearchML.csproj",
+    "outputPath": "D:\\Projects\\C#\\SearchML\\SearchML\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14,8 +14,7 @@
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-      "https://api.nuget.org/v3/index.json": {},
-      "https://nexus.indraproject.ir/repository/indra-dev-nuget": {}
+      "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
       "netcoreapp3.0": {
@@ -30,6 +29,12 @@
   },
   "frameworks": {
     "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.ML": {
+          "target": "Package",
+          "version": "[1.4.0, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

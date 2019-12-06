@@ -1,12 +1,97 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03360353-4e7e-4ff4-826f-cf6f1bd121e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SearchML/DataPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchML/ML/Models/PredictionOutput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchML/ML/Models/SearchHistoryInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchML/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchML/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/SearchML.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/SearchML.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/Debug/netcoreapp3.0/SearchML.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/SearchML.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchML/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchML/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/Debug/netcoreapp2.1/SearchMLML.ConsoleApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/SearchMLML.ConsoleApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.ConsoleApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/Debug/netstandard2.0/SearchMLML.Model.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/SearchMLML.Model.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchMLML.Model/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchMLML.Model/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SearchML/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchMLML.ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AC1708CF-77CE-4A63-B733-A786896EEC8E/c5/78a84747/TypedCursorable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchMLML.ConsoleApp/ModelBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AC1708CF-77CE-4A63-B733-A786896EEC8E/a0/2a0d9fc6/LearningPipelineExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AC1708CF-77CE-4A63-B733-A786896EEC8E/d6/6b8c1865/ConversionsExtensionsCatalog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchMLML.Model/ModelOutput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AC1708CF-77CE-4A63-B733-A786896EEC8E/de/8e13131b/ValueToKeyMappingEstimator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchMLML.Model/ConsumeModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchMLML.Model/ModelInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchML/ML/Models/SearchHistoryInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchML/ML/Models/PredictionOutput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchML/DataPoint.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SearchML/ML/Models/SearchInputPrediction.cs" />
+        <option value="$PROJECT_DIR$/SearchML/ML/Models/Prediction.cs" />
+        <option value="$PROJECT_DIR$/SearchML/ML/Models/PredictionOutput.cs" />
+        <option value="$PROJECT_DIR$/SearchML/DataPoint.cs" />
+        <option value="$PROJECT_DIR$/SearchML/ML/Models/SearchHistoryInput.cs" />
+        <option value="$PROJECT_DIR$/SearchML/Program.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1UNoLhXcM5Lg2pBL7v8mkX9ojgl" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.SearchML">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -25,5 +110,59 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchML" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SearchML/bin/Debug/netcoreapp3.0/SearchML.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchML/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SearchML/SearchML.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.SearchML" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03360353-4e7e-4ff4-826f-cf6f1bd121e8" name="Default Changelist" comment="" />
+      <created>1575543282296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575543282296</updated>
+      <workItem from="1575543288549" duration="8572000" />
+      <workItem from="1575639354113" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
